@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FirebaseAuthProject</string>
+    <string name="sign_up">SIGN UP!</string>
+    <string name="mail_address">Mail Adress</string>
+    <string name="password">Password</string>
+    <string name="ok">OK</string>
+    <string name="already_a_member">Already a member?</string>
+    <string name="sign_in">SIGN IN!</string>
+    <string name="forget_your_password">Forget your password?</string>
+    <string name="reset_my_password">RESET MY PASSWORD</string>
+    <string name="create_profile">CREATE PROFILE</string>
+    <string name="name">Name:</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="surname">Surname:</string>
+    <string name="enter_your_surname">Enter your surname</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="email_address">Email Address</string>
+    <string name="profile">Profile</string>
+    <string name="dies">###</string>
+    <string name="log_out">Log Out</string>
+</resources>
